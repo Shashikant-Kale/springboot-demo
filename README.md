@@ -7,7 +7,7 @@ Test Urls -
 * http://localhot:8080/actuator/health
 
 
-# Steps to add local project to git repository
+# Steps to add local project to Git repository
 * git init
 * git status
 * git add .
