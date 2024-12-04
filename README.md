@@ -1,4 +1,4 @@
-Springboot project to demo project
+Springboot demo project
 
 Test Urls -
 http://localhost:8080/hello
